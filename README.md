@@ -1,1 +1,3 @@
 # FullStackZadanie1
+
+ok
